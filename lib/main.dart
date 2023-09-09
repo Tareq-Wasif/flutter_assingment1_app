@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
           centerTitle: true,
           toolbarHeight: 100,
           backgroundColor: Colors.green,
-          elevation: 20,
+          elevation: 70,
           leading: IconButton(
             icon: Icon(
               Icons.add_card, // Replace with your desired profile icon
